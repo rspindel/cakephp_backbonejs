@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Backbone.js Client</title>
+		<script src="lib/jquery-1.7.2.js" type="text/javascript"></script>
+		<script src="lib/underscore.js" type="text/javascript"></script>
+		<script src="lib/json2.js" type="text/javascript"></script>
+		<script src="lib/backbone.js" type="text/javascript"></script>
+		<script src="application.js" type="text/javascript"></script>
+	</head>
+	<body>
+		<h1>Add a customer</h1>
+		<table id="add-table">
+			<tbody>
+				<tr>
+					<th>name</th>
+					<td><input id="add-name" size="32"/></td>
+				</tr>
+				<tr>
+					<th>address</th>
+					<td><input id="add-address" size="32"/></td>
+				</tr>
+			</tbody>
+		</table>
+		<input id="add-button" type="button" value="Add"/>		
+		
+		<h1>Customer list</h1>
+		<input id="list-button" type="button" value="Get customer list"/>
+		<table id="list-table" border="1">
+			<thead>
+				<tr>
+					<th>id</th>
+					<th>name</th>
+					<th>address</th>
+				</tr>
+			</thead>
+			<tbody>
+			</tbody>
+		</table>
+		
+		<h1>Update the customer</h1>
+		ID:<input id="update-read_id" type="text" size="36"/>
+		<input id="update-read_button" type="button" value="Read"/>
+		<table id="update-table">
+			<tbody>
+				<tr>
+					<th>name</th>
+					<td><input id="update-name" size="32"/></td>
+				</tr>
+				<tr>
+					<th>address</th>
+					<td><input id="update-address" size="32"/></td>
+				</tr>
+			</tbody>
+		</table>
+		<input id="update-update_button" type="button" value="Update"/>		
+		
+		<h1>Delete the customer</h1>
+		ID:<input id="delete-id" type="text" size="36"/>
+		<input id="delete-button" type="button" value="Delete"/>
+	</body>
+</html>
