@@ -18,6 +18,7 @@ class CustomersController extends AppController {
 		$customer['Customer']['address']  = $this->params['data']['address'];
 		$this->Customer->create();
 		$this->Customer->save($customer);
+		$customer['Customer']['id'] = $this->Customer->id;
 		$this->set('customer', $customer);
 		$this->set('_serialize', 'customer');
 	}
