@@ -1,0 +1,1005 @@
+2012-03-26 02:23:58 Error: [MissingViewException] View file "C:\xampp\htdocs\cakephp_service\app\View\Pages\json\home.ctp" is missing.
+#0 C:\xampp\htdocs\cakephp_service\lib\Cake\View\JsonView.php(98): View->_getViewFileName('home')
+#1 C:\xampp\htdocs\cakephp_service\lib\Cake\Controller\Controller.php(962): JsonView->render('home', NULL)
+#2 C:\xampp\htdocs\cakephp_service\app\Controller\PagesController.php(80): Controller->render('home')
+#3 [internal function]: PagesController->display('home')
+#4 C:\xampp\htdocs\cakephp_service\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\cakephp_service\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-26 02:24:16 Error: [MissingViewException] View file "C:\xampp\htdocs\cakephp_service\app\View\Pages\json\home.ctp" is missing.
+#0 C:\xampp\htdocs\cakephp_service\lib\Cake\View\JsonView.php(98): View->_getViewFileName('home')
+#1 C:\xampp\htdocs\cakephp_service\lib\Cake\Controller\Controller.php(962): JsonView->render('home', NULL)
+#2 C:\xampp\htdocs\cakephp_service\app\Controller\PagesController.php(80): Controller->render('home')
+#3 [internal function]: PagesController->display('home')
+#4 C:\xampp\htdocs\cakephp_service\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\cakephp_service\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-26 02:26:36 Error: [MissingViewException] View file "C:\xampp\htdocs\cakephp_service\app\View\Pages\json\home.ctp" is missing.
+#0 C:\xampp\htdocs\cakephp_service\lib\Cake\View\JsonView.php(98): View->_getViewFileName('home')
+#1 C:\xampp\htdocs\cakephp_service\lib\Cake\Controller\Controller.php(962): JsonView->render('home', NULL)
+#2 C:\xampp\htdocs\cakephp_service\app\Controller\PagesController.php(80): Controller->render('home')
+#3 [internal function]: PagesController->display('home')
+#4 C:\xampp\htdocs\cakephp_service\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\cakephp_service\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-28 04:27:16 Error: [MissingActionException] Action CustomersController::c-0() could not be found.
+#0 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp_service\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-28 04:27:33 Error: [MissingActionException] Action CustomersController::c-3() could not be found.
+#0 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp_service\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-28 08:24:18 Error: [MissingActionException] Action CustomersController::c-0() could not be found.
+#0 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp_service\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-28 08:25:31 Error: [MissingActionException] Action CustomersController::c-3() could not be found.
+#0 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp_service\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-28 08:26:19 Error: [MissingActionException] Action CustomersController::c-0() could not be found.
+#0 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp_service\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp_service\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-15 10:07:24 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 10:08:48 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 10:12:53 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 10:13:28 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 10:13:28 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2732): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2672): Model->_findCount('before', Array)
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2630): Model->buildQuery('count', Array)
+#8 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2560): Model->find('count', Array)
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1609): Model->exists()
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(38): Model->save(Array)
+#11 [internal function]: CustomersController->edit('4f72d808-63d4-4...')
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#13 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#14 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#15 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2012-04-15 10:15:47 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2732): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2672): Model->_findCount('before', Array)
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2630): Model->buildQuery('count', Array)
+#8 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2560): Model->find('count', Array)
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1609): Model->exists()
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(38): Model->save(Array)
+#11 [internal function]: CustomersController->edit('4f72ea1b-65b8-4...')
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#13 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#14 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#15 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2012-04-15 10:19:02 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 10:19:40 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 10:50:56 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 10:50:56 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 10:53:41 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 10:55:26 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:02:14 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:03:49 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:04:22 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:04:22 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:07:04 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:07:55 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:13:20 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:13:20 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:13:20 Error: Fatal Error (256): [CakeException] Unknown status code
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ExceptionRenderer.php(202): CakeResponse->statusCode(600)
+#1 [internal function]: ExceptionRenderer->error400(Object(JsonException))
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ExceptionRenderer.php(165): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ErrorHandler.php(127): ExceptionRenderer->render()
+#4 [internal function]: ErrorHandler::handleException(Object(JsonException))
+#5 {main} in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ErrorHandler.php, line 136]
+2012-04-15 11:13:59 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::_findCount() - CORE\Cake\Model\Model.php, line 2732
+Model::buildQuery() - CORE\Cake\Model\Model.php, line 2672
+Model::find() - CORE\Cake\Model\Model.php, line 2630
+Model::exists() - CORE\Cake\Model\Model.php, line 2560
+Model::delete() - CORE\Cake\Model\Model.php, line 2361
+CustomersController::delete() - APP\Controller\CustomersController.php, line 66
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:13:59 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2732): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2672): Model->_findCount('before', Array)
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2630): Model->buildQuery('count', Array)
+#8 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2560): Model->find('count', Array)
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2361): Model->exists()
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(66): Model->delete('4f8a6769-a334-4...')
+#11 [internal function]: CustomersController->delete('4f8a6769-a334-4...')
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#13 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#14 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#15 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2012-04-15 11:21:51 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:21:51 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:21:51 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:21:51 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:50:39 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:50:39 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:50:39 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:50:39 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:52:11 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:52:11 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:52:11 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:52:11 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:54:49 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:54:49 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:54:49 Error: Fatal Error (256): [CakeException] Unknown status code
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Lib\Error\AppExceptionRenderer.php(6): CakeResponse->statusCode(600)
+#1 [internal function]: AppExceptionRenderer->json(Object(JsonException))
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ExceptionRenderer.php(165): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ErrorHandler.php(127): ExceptionRenderer->render()
+#4 [internal function]: ErrorHandler::handleException(Object(JsonException))
+#5 {main} in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ErrorHandler.php, line 136]
+2012-04-15 11:55:18 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:55:18 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:55:18 Error: Fatal Error (256): [CakeException] Unknown status code
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Lib\Error\AppExceptionRenderer.php(6): CakeResponse->statusCode(600)
+#1 [internal function]: AppExceptionRenderer->json(Object(JsonException))
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ExceptionRenderer.php(165): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ErrorHandler.php(127): ExceptionRenderer->render()
+#4 [internal function]: ErrorHandler::handleException(Object(JsonException))
+#5 {main} in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ErrorHandler.php, line 136]
+2012-04-15 11:55:18 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:55:18 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:55:18 Error: Fatal Error (256): [CakeException] Unknown status code
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Lib\Error\AppExceptionRenderer.php(6): CakeResponse->statusCode(600)
+#1 [internal function]: AppExceptionRenderer->json(Object(JsonException))
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ExceptionRenderer.php(165): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ErrorHandler.php(127): ExceptionRenderer->render()
+#4 [internal function]: ErrorHandler::handleException(Object(JsonException))
+#5 {main} in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ErrorHandler.php, line 136]
+2012-04-15 11:56:56 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:56:56 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:56:56 Error: Fatal Error (256): [CakeException] Unknown status code
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Lib\Error\AppExceptionRenderer.php(6): CakeResponse->statusCode(599)
+#1 [internal function]: AppExceptionRenderer->json(Object(JsonException))
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ExceptionRenderer.php(165): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ErrorHandler.php(127): ExceptionRenderer->render()
+#4 [internal function]: ErrorHandler::handleException(Object(JsonException))
+#5 {main} in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ErrorHandler.php, line 136]
+2012-04-15 11:56:56 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:56:56 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:56:56 Error: Fatal Error (256): [CakeException] Unknown status code
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Lib\Error\AppExceptionRenderer.php(6): CakeResponse->statusCode(599)
+#1 [internal function]: AppExceptionRenderer->json(Object(JsonException))
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ExceptionRenderer.php(165): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ErrorHandler.php(127): ExceptionRenderer->render()
+#4 [internal function]: ErrorHandler::handleException(Object(JsonException))
+#5 {main} in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Error\ErrorHandler.php, line 136]
+2012-04-15 11:59:12 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:59:12 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:59:12 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:59:12 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:59:12 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:59:12 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 11:59:13 Warning: Warning (2): PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+ (trying to connect via tcp://localhost:3306) in [C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\Database\Mysql.php, line 160]
+Trace:
+PDO::__construct() - [internal], line ??
+Mysql::connect() - CORE\Cake\Model\Datasource\Database\Mysql.php, line 160
+DboSource::__construct() - CORE\Cake\Model\Datasource\DboSource.php, line 244
+ConnectionManager::getDataSource() - CORE\Cake\Model\ConnectionManager.php, line 101
+Model::setDataSource() - CORE\Cake\Model\Model.php, line 3354
+Model::setSource() - CORE\Cake\Model\Model.php, line 1085
+Model::getDataSource() - CORE\Cake\Model\Model.php, line 3380
+Model::schema() - CORE\Cake\Model\Model.php, line 1278
+Model::create() - CORE\Cake\Model\Model.php, line 1451
+CustomersController::add() - APP\Controller\CustomersController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 488
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 96
+
+2012-04-15 11:59:13 Error: [JsonException] Customer save failed
+#0 [internal function]: CustomersController->add()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-15 12:05:21 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 12:05:21 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 12:05:37 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 12:05:37 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 12:05:37 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 12:08:46 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 12:10:09 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 12:10:56 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 12:11:08 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1278): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1451): Model->schema()
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(23): Model->create()
+#8 [internal function]: CustomersController->add()
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-04-15 12:11:08 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2732): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2672): Model->_findCount('before', Array)
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2630): Model->buildQuery('count', Array)
+#8 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2560): Model->find('count', Array)
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1609): Model->exists()
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(38): Model->save(Array)
+#11 [internal function]: CustomersController->edit('4f8a9dd3-42f0-4...')
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#13 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#14 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#15 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2012-04-15 12:11:33 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2732): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2672): Model->_findCount('before', Array)
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2630): Model->buildQuery('count', Array)
+#8 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2560): Model->find('count', Array)
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1609): Model->exists()
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(38): Model->save(Array)
+#11 [internal function]: CustomersController->edit('4f8a9dd3-42f0-4...')
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#13 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#14 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#15 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2012-04-15 12:11:54 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2732): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2672): Model->_findCount('before', Array)
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2630): Model->buildQuery('count', Array)
+#8 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2560): Model->find('count', Array)
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1609): Model->exists()
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(38): Model->save(Array)
+#11 [internal function]: CustomersController->edit('4f8a9dd3-42f0-4...')
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#13 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#14 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#15 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2012-04-15 12:13:17 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2002] 対象のコンピューターによって拒否されたため、接続できませんでした。
+" is missing, or could not be created.
+#0 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Datasource\DboSource.php(244): Mysql->connect()
+#1 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3354): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(1085): Model->setDataSource('default')
+#4 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(3380): Model->setSource('customers')
+#5 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2732): Model->getDataSource()
+#6 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2672): Model->_findCount('before', Array)
+#7 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2630): Model->buildQuery('count', Array)
+#8 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2560): Model->find('count', Array)
+#9 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Model\Model.php(2361): Model->exists()
+#10 C:\xampp\htdocs\cakephp_service_nocustomparse\app\Controller\CustomersController.php(44): Model->delete('4f8a9dd3-42f0-4...')
+#11 [internal function]: CustomersController->delete('4f8a9dd3-42f0-4...')
+#12 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Controller\Controller.php(488): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#13 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#14 C:\xampp\htdocs\cakephp_service_nocustomparse\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#15 C:\xampp\htdocs\cakephp_service_nocustomparse\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
