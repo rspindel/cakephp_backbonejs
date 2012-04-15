@@ -24,13 +24,7 @@ $(function() {
       "name" : "",
       "address" : ""
     },
-    urlRoot : "/cakephp_service_nocustomparse/customers",
-    parse : function(response) {
-      if (response.Customer != undefined) {
-        return response.Customer;
-      }
-      return response;
-    }
+    urlRoot : "/cakephp_service_nocustomparse/customers"
   });
 
   var Customers = Backbone.Collection.extend({
