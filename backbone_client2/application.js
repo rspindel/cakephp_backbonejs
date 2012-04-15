@@ -100,6 +100,7 @@ $(function() {
           name : $('#dialog-name').val(),
           address : $('#dialog-address').val()
         });
+        $('#dialog').unbind('dialogclose');
       });
       $('#dialog').dialog('open');
     }
