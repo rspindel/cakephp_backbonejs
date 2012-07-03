@@ -14,7 +14,7 @@ This is the same application as the first one, but it uses Spine.js instead of B
 
 ## [CakePHP + Backbone.js with View](http://cx5software.com/blog/2012/04/12/cakephp_backbonejs_with_view/ "go to the blog")
 This sample uses Backbone.js's View concept to update views.
-* cakephp_service
+* cakephp_service2
 * backbone_client2
 
 ## [CakePHP + Backbone.js without custome parse](http://cx5software.com/blog/2012/04/15/cakephp-backbone-js_jsonformat/ "go to the blog")
